@@ -1,5 +1,6 @@
 # super-judah
 This is a strongly simplified version of Judah's code for use it on supercomputers.
+See also the page [Family Robotics - Deep Q-learning with Samu](http://shrek.unideb.hu/~nbatfai/)
 
 Judah will have been ported to the following platforms
 
